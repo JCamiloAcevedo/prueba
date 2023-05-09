@@ -1,0 +1,35 @@
+@import 'sweetalert2/src/sweetalert2.scss';
+
+
+body {
+    background-image: url(/imgs/space.jpg);
+    background-attachment: fixed;
+    color: aliceblue;
+}
+
+header {
+    display: flex;
+    background-color: #e8e5c4;
+    color: #ff0000;
+    height: 225px;
+
+}
+
+.texto {
+    top: 135px;
+    left: 65px;
+    position: relative;
+}
+
+.campus{
+    color: aliceblue;
+}
+
+button {
+    border-radius: 15px;
+    width: 155px;
+    height: 45px;
+    background: none;
+    color: aliceblue;
+    border-color: aliceblue;
+}
